@@ -56,8 +56,8 @@ with col2:
         height=500,
         margin=dict(l=50, r=50, b=100, t=100, pad=4),
         font=dict(color="black"),  # Black font color
-        xaxis=dict(title_font=dict(color="white")),  # Black font color for x axis title
-        yaxis=dict(title_font=dict(color="white")), 
+        xaxis=dict(title_font=dict(color="black")),  # Black font color for x axis title
+        yaxis=dict(title_font=dict(color="black")), 
         
         # Black font color for y axis title
     )
